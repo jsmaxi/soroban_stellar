@@ -88,3 +88,11 @@ https://developers.stellar.org/docs/build/guides/storage/choosing-the-right-stor
 https://testnet.stellarchain.io/accounts/...address
 
 https://stellar.expert/explorer/public
+
+https://stellar.org/blog/developers/evm-to-soroban-understanding-data-types-or-solidity-to-rust-series-pt-2
+
+https://developers.stellar.org/docs/build/smart-contracts/example-contracts/events
+
+https://developers.stellar.org/docs/build/guides/events/publish
+
+OpenZeppelin standards: https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/interfaces
