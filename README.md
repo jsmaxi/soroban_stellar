@@ -96,3 +96,5 @@ https://developers.stellar.org/docs/build/smart-contracts/example-contracts/even
 https://developers.stellar.org/docs/build/guides/events/publish
 
 OpenZeppelin standards: https://github.com/OpenZeppelin/openzeppelin-contracts/tree/master/contracts/interfaces
+
+NFT: https://www.youtube.com/watch?v=BSwTcvSft0U
